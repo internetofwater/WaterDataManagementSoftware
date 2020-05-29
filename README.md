@@ -3,7 +3,7 @@ Water Data Management Tools
 
 
 | Tool                      | EarthSoft EQuiS       | Kisters WISKI/Hydrsta         | Aquatic Informatics Aquarius  |  Ribeka       |   ESDat 
-|---                        |---                    |---                            |---                            |---            |                |
+|---                        |---                    |---                            |---                            |---            |---                
 | Time-Series               | x                     | x                             | x                             |               |                |
 | Discrete                  |                       | x                             | x                             |               |                |
 | Water Quality             |                       | x                             | x                             |               |                |
